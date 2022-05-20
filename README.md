@@ -1,2 +1,3 @@
 # AppFestaLista
-#Aplicatico para listar de convidados.
+Aplicatico para listar de convidados de uma determinda festa.
+

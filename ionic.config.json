@@ -1,0 +1,7 @@
+{
+  "name": "appMenuLateral",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
